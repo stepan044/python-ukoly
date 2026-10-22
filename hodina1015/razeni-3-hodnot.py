@@ -7,6 +7,14 @@ if a >b:
     a = b 
     b = temp
 
+# prohozeni aritmeticky
+# a = a + b
+# b = a - b
+# a = a - b
+
+
+
+
 if b > c: 
     temp = b 
     b = c 
